@@ -1,6 +1,6 @@
 # SeanScienceGame
 Game Project Information technology KhonKean University made by Unreal Engine 5
 
-![image]([https://ibb.co/6HmrRq0](https://postimg.cc/30Mzg7TP))
+![Alt text of the image](https://github.com/username/repository/blob/master/img/octocat.png)
 
 Link for Download Game : 
